@@ -1,0 +1,33 @@
+Questions : Answers
+hello : hi
+ok : hmm
+thanks : welcome
+hi : hello
+bye : tata, enter q to quit
+tata : bye, enter q to quit
+hmm : haa
+welcome : hmmmm
+good morning : Good Morning
+good night : Good Night
+good evening : Good Evening
+ha : hmm
+are you ok : yes, I am fine, and you ?
+yes i am fine : okayy
+how are you : I am fine, and you ?
+i am fine : okayy
+haa : hmm
+hii : Helloo
+do you love me : Yes I love human 
+okay : Haaa ok
+what are you doing : Nothing, chat with you, and you?
+nothing : okay
+okay bye : Hmm byee, Take Care, enter q to quit
+what is your name : Unfortunately I have no name
+good afternoon : Good afternoon
+no : okay, :)
+hm : Haaa
+noo : okay, :)
+yes fine : okayy :)
+are you okay? : Yess, I am fine, you?
+take care : Hmm, Stay Safe
+chat with you : ohhh nice :)
